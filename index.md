@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/wili4m/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### o que é?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esse é meu novo blog. Do zero. On scratch!
 
-### Markdown
+#### Pq? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As pessoas **retém** conhecimento para favorecimento próprio. Eu não! Aprendi com os melhores. Colegas de trabalho que se tornaram grandes amigos e que marcaram minha vida profissional. Tento retribuir esse conhecimento que me foi gratuitamente concedido, também concedendo ensinamentos.
 
-```markdown
-Syntax highlighted code block
+#### Como?
 
-# Header 1
-## Header 2
-### Header 3
+Aqui é **instrução**, **compartilhamento** de informação de **boa qualidade**.
 
-- Bulleted
-- List
+Totalmente livre de anúncios (Por uma Web melhor).
 
-1. Numbered
-2. List
+#### Quem?
 
-**Bold** and _Italic_ and `Code` text
+Me chamo Wiliam, sou Sysadmin Linux, mas já fui de suporte técnico, operações, entre outros...
 
-[Link](url) and ![Image](src)
-```
+#### Finish Him
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Se tiver sugestões, críticas e/ou elogios, estamos aí...
 
-### Jekyll Themes
+Segue meu outro blog pessoal (que está 8 anos no ar):
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wili4m/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[http://blogporta80.com.br](http://blogporta80.com.br)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Abraço!
